@@ -102,9 +102,9 @@ function addQuestions(qObj, qLength) {
       input.dataset.answer = qObj[`answer_${i}`];
 
       //check first choice
-      if (i === 1) {
-        input.checked = true;
-      }
+      // if (i === 1) {
+      //   input.checked = true;
+      // }
 
       let label = document.createElement("label");
       label.htmlFor = `answer_${i}`;
