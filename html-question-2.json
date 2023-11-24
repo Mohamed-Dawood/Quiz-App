@@ -1,0 +1,64 @@
+[{
+  "title": "Which of the following tag is used for inserting the largest heading in HTML?",
+  "answer_1": "head",
+  "answer_2": "<h1>",
+  "answer_3": "<h6>",
+  "answer_4": "heading",
+  "right_answer": "<h1>"
+}, {
+  "title": "egypt in ",
+  "answer_1": "eroba",
+  "answer_2": "africa",
+  "answer_3": "ostralia",
+  "answer_4": "amerca",
+  "right_answer": "africa"
+}, {
+  "title": "Which element is used to get highlighted text in HTML5?",
+  "answer_1": "<u>",
+  "answer_2": "<mark>",
+  "answer_3": "<highlight>",
+  "answer_4": "<b>",
+  "right_answer": "<mark>"
+}, {
+  "title": "mohamed son of ",
+  "answer_1": "ebrahim",
+  "answer_2": "basyouni",
+  "answer_3": "mohamed",
+  "answer_4": "ahmed",
+  "right_answer": "basyouni"
+}, {
+  "title": "Arrays in JavaScript are defined by which of the following statements?",
+  "answer_1": "It is an ordered list of objects",
+  "answer_2": "It is an ordered list of string",
+  "answer_3": "It is an ordered list of functions",
+  "answer_4": "It is an ordered list of values",
+  "right_answer": "It is an ordered list of values"
+}, {
+  "title": "Which of the following is not javascript data types?",
+  "answer_1": "Null type",
+  "answer_2": "Undefined type",
+  "answer_3": "Number type",
+  "answer_4": "All of the mentioned",
+  "right_answer": "All of the mentioned"
+}, {
+  "title": "Which of the following object is the main entry point to all client-side JavaScript features and APIs?",
+  "answer_1": "Position",
+  "answer_2": "Window",
+  "answer_3": " Standard",
+  "answer_4": "Location",
+  "right_answer": "Window"
+}, {
+  "title": "ebrahim son of ",
+  "answer_1": "Position",
+  "answer_2": "ramadan",
+  "answer_3": " Standard",
+  "answer_4": "Location",
+  "right_answer": "ramadan"
+}, {
+  "title": "Which of the following is NOT a valid CSS length unit?",
+  "answer_1": "cm",
+  "answer_2": "dm",
+  "answer_3": "em",
+  "answer_4": "mm",
+  "right_answer": "dm"
+}]
